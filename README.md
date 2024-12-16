@@ -10,7 +10,7 @@ Installation:<br/>
 1.Open cmd<br/>
 2.Enter py -m pip install selenium<br/>
 3. After its done installing enter: py -m pip install webdrive_manager<br/>
-4.Run the whatsapp.py file<br/>
+4.Run the WhatsappBot.py file<br/>
 5. Enter the name of user or group.<br/>
 6. Enter your message.<br/>
 7. Enter the number of times the message is to be sent.<br/>
